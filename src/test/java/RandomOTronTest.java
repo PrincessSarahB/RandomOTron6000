@@ -17,11 +17,12 @@ public class RandomOTronTest {
 
     @Test
     public void hasNames() {
-        assertEquals(4, randomOTron.getNames().size());
+        assertEquals(19, randomOTron.getNames().size());
     }
 
     @Test
     public void canGetTwoNames(){
         assertEquals(2, randomOTron.getTwoNames().size());
     }
+
 }
