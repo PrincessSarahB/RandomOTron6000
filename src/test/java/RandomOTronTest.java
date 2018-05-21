@@ -25,4 +25,9 @@ public class RandomOTronTest {
         assertEquals(2, randomOTron.getTwoNames().size());
     }
 
+    @Test
+    public void canFindByIndex(){
+        assertEquals("Sarah", randomOTron.findByIndex(0));
+    }
+
 }

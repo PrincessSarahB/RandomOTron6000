@@ -56,6 +56,10 @@ public class RandomOTron {
 
     }
 
+    public String findByIndex(int index){
+        return this.names.get(index);
+    }
+
 
 
 
