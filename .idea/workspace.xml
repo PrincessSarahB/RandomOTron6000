@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7c748c6-93fb-44fd-8354-ea4ea63efcb2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RandomOTron.java" afterPath="$PROJECT_DIR$/src/main/java/RandomOTron.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/layout.vtl" afterPath="$PROJECT_DIR$/src/main/resources/layout.vtl" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/RandomOTronTest.java" afterPath="$PROJECT_DIR$/src/test/java/RandomOTronTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/one.vtl" afterPath="$PROJECT_DIR$/src/main/resources/one.vtl" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -96,17 +93,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="one.vtl" pinned="false" current-in-tab="false">
+      <file leaf-file-name="one.vtl" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/one.vtl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="8" />
+            <state relative-caret-position="45">
+              <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.vtl" pinned="false" current-in-tab="true">
+      <file leaf-file-name="layout.vtl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/layout.vtl">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="219">
@@ -147,7 +144,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/one.vtl" />
         <option value="$PROJECT_DIR$/src/main/resources/two.vtl" />
         <option value="$PROJECT_DIR$/src/main/resources/public/Style.css" />
         <option value="$PROJECT_DIR$/src/main/resources/public/style.css" />
@@ -155,6 +151,7 @@
         <option value="$PROJECT_DIR$/src/main/java/RandomOTron.java" />
         <option value="$PROJECT_DIR$/src/test/java/RandomOTronTest.java" />
         <option value="$PROJECT_DIR$/src/main/resources/layout.vtl" />
+        <option value="$PROJECT_DIR$/src/main/resources/one.vtl" />
       </list>
     </option>
   </component>
@@ -580,14 +577,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/one.vtl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/RandomOTronController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -642,6 +631,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
           <caret line="27" column="35" lean-forward="false" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/one.vtl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
           <folding />
         </state>
       </provider>
