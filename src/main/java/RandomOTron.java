@@ -52,6 +52,7 @@ public class RandomOTron {
         twoNames.add(randomName2);
 
 
+
         return twoNames;
 
     }
@@ -60,6 +61,9 @@ public class RandomOTron {
         return this.names.get(index);
     }
 
+    public void remove(String name){
+        this.names.remove(name);
+    }
 
 
 

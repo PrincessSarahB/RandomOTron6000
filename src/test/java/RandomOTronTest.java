@@ -4,6 +4,7 @@ import org.junit.Test;
 import java.util.ArrayList;
 
 import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertNotNull;
 
 public class RandomOTronTest {
 
@@ -18,6 +19,12 @@ public class RandomOTronTest {
     @Test
     public void hasNames() {
         assertEquals(19, randomOTron.getNames().size());
+    }
+
+    @Test
+    public void canGetSingleName(){
+        String randomName = randomOTron.getRandomName();
+        assertNotNull(randomName);
     }
 
     @Test
